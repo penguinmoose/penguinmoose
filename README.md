@@ -1,4 +1,4 @@
-- 👋 Hi, I’m penguinmoose
+- 👋 Hi, I’m penguinmoose (this is not my real name)
 - 👀 I’m interested in making webpages.
 - 🌱 I’m currently learning the programming launguage Python.
 
