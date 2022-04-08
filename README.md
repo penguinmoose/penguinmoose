@@ -2,9 +2,7 @@
 
 My Scratch account is [@helloworldbyeworld](scratch.mit.edu/users/helloworldbyeworld)
 
-I like making tools.
-
-And I like making scratch projects.
+I enjoy coding, especially on Scratch.
 
 <!---
 penguinmoose/penguinmoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
