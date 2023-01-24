@@ -1,6 +1,7 @@
 ## Hello! I'm penguinmoose!
 
 My Scratch account is [@helloworldbyeworld](scratch.mit.edu/users/helloworldbyeworld)
+Contact me on Scratch.
 
 I enjoy coding, especially on Scratch.
 
